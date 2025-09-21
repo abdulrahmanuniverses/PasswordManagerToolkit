@@ -3,7 +3,7 @@ PMtoolkit is a simple bash script passwordmanager
 It can generate strong passwords, store them securely using **GPG encryption**
 and check if a password has been leaked using the **Have I Been Pwned API**.  
 - **Password Generator** → create random, strong passwords of any length.  
-- **Password Manager** →
+- **Password Manager** → External GPG TXT 
 - Create new encrypted password files (`.gpg`).
 - Add usernames & passwords securely.  
 - View your saved credentials (after decryption).
